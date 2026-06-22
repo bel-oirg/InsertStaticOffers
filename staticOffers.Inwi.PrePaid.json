@@ -1,0 +1,105 @@
+{
+  "operator": "INWI",
+  "subscriptionType": "PREPAID",
+  "offers": {
+    "5": [
+      { "id": 0, "label": "Recharge Dirhams" },
+      { "id": 1, "label": "Recharge Appels & SMS" },
+      { "id": 2, "label": "Recharge Koulchi" },
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 5, "label": "Recharge TikTok + Youtube" },
+      { "id": 6, "label": "Recharge Réseaux Sociaux" },
+      { "id": 8, "label": "Recharge Appels Illimités vers inwi" },
+      { "id": 9, "label": "Recharge Achat des offres inwi" },
+      { "id": 12, "label": "Recharge Appels nationaux" }
+    ],
+    "10": [
+      { "id": 0, "label": "Recharge Dirhams" },
+      { "id": 1, "label": "Recharge Appels & SMS" },
+      { "id": 2, "label": "Recharge Koulchi" },
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 5, "label": "Recharge TikTok + Youtube" },
+      { "id": 6, "label": "Recharge Réseaux Sociaux" },
+      { "id": 8, "label": "Recharge Appels Illimités vers inwi" },
+      { "id": 9, "label": "Recharge Achat des offres inwi" },
+      { "id": 12, "label": "Recharge Appels nationaux" },
+      { "id": 33, "label": "Recharge Internet et appels" }
+    ],
+    "20": [
+      { "id": 0, "label": "Recharge Dirhams" },
+      { "id": 1, "label": "Recharge Appels & SMS" },
+      { "id": 2, "label": "Recharge Koulchi" },
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 4, "label": "Recharge Nationale et Internationale" },
+      { "id": 5, "label": "Recharge TikTok + Youtube" },
+      { "id": 6, "label": "Recharge Réseaux Sociaux" },
+      { "id": 8, "label": "Recharge Appels Illimités vers inwi" },
+      { "id": 9, "label": "Recharge Achat des offres inwi" },
+      { "id": 12, "label": "Recharge Appels nationaux" },
+      { "id": 33, "label": "Recharge Internet et appels" }
+    ],
+    "30": [
+      { "id": 0, "label": "Recharge Dirhams" },
+      { "id": 1, "label": "Recharge Appels & SMS" },
+      { "id": 2, "label": "Recharge Koulchi" },
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 5, "label": "Recharge TikTok + Youtube" },
+      { "id": 6, "label": "Recharge Réseaux Sociaux" },
+      { "id": 9, "label": "Recharge Achat des offres inwi" },
+      { "id": 12, "label": "Recharge Appels nationaux" }
+    ],
+    "50": [
+      { "id": 0, "label": "Recharge Dirhams" },
+      { "id": 1, "label": "Recharge Appels & SMS" },
+      { "id": 2, "label": "Recharge Koulchi" },
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 4, "label": "Recharge Nationale et Internationale" },
+      { "id": 6, "label": "Recharge Réseaux Sociaux" },
+      { "id": 7, "label": "Recharge Roaming" },
+      { "id": 8, "label": "Recharge Appels Illimités vers inwi" },
+      { "id": 9, "label": "Recharge Achat des offres inwi" },
+      { "id": 77, "label": "Recharge Roaming offres spéciales" },
+      { "id": 78, "label": "Recharge France, Espagne, Portugal" }
+    ],
+    "100": [
+      { "id": 0, "label": "Recharge Dirhams" },
+      { "id": 1, "label": "Recharge Appels & SMS" },
+      { "id": 2, "label": "Recharge Koulchi" },
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 4, "label": "Recharge Nationale et Internationale" },
+      { "id": 7, "label": "Recharge Roaming" },
+      { "id": 8, "label": "Recharge Appels Illimités vers inwi" },
+      { "id": 9, "label": "Recharge Achat des offres inwi" },
+      { "id": 33, "label": "Recharge Internet et appels" },
+      { "id": 78, "label": "Recharge France, Espagne, Portugal" }
+    ],
+    "150": [
+      { "id": 7, "label": "Recharge Roaming" },
+      { "id": 70, "label": "Recharge Roaming Hajj" }
+    ],
+    "200": [
+      { "id": 0, "label": "Recharge Dirhams" },
+      { "id": 2, "label": "Recharge Koulchi" },
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 7, "label": "Recharge Roaming" },
+      { "id": 9, "label": "Recharge Achat des offres inwi" },
+      { "id": 33, "label": "Recharge Internet et appels" }
+    ],
+    "300": [
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 7, "label": "Recharge Roaming" },
+      { "id": 33, "label": "Recharge Internet et appels" },
+      { "id": 70, "label": "Recharge Roaming Hajj" }
+    ],
+    "350": [
+      { "id": 7, "label": "Recharge Roaming" }
+    ],
+    "500": [
+      { "id": 3, "label": "Recharge Internet" },
+      { "id": 33, "label": "Recharge Internet et appels" }
+    ],
+    "900": [
+      { "id": 7, "label": "Recharge Roaming" }
+    ]
+  }
+}

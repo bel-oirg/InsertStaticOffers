@@ -1,0 +1,64 @@
+{
+  "operator": "ORANGE",
+  "subscriptionType": "POSTPAID",
+  "offers": {
+    "5": [
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "10": [
+      { "id": 3, "label": "Pass Internet sur mobile" },
+      { "id": 1, "label": "Pass Appels vers le national" },
+      { "id": 5, "label": "Pass TikTok" },
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "20": [
+      { "id": 5, "label": "Pass TikTok" },
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "25": [
+      { "id": 3, "label": "Pass Internet sur mobile" },
+      { "id": 4, "label": "Pass Appels vers l'international" },
+      { "id": 1, "label": "Pass Appels vers le national" },
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "30": [
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "45": [
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "50": [
+      { "id": 3, "label": "Pass Internet sur mobile" },
+      { "id": 7, "label": "Pass Roaming *7" },
+      { "id": 77, "label": "Pass offres spéciales Roaming *77" },
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "100": [
+      { "id": 3, "label": "Pass Internet sur mobile" },
+      { "id": 7, "label": "Pass Roaming *7" },
+      { "id": 77, "label": "Pass offres spéciales Roaming *77" },
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "150": [
+      { "id": 7, "label": "Pass Roaming *7" },
+      { "id": 77, "label": "Pass offres spéciales Roaming *77" },
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "200": [
+      { "id": 0, "label": "Recharge Dirhams" }
+    ],
+    "300": [
+      { "id": 7, "label": "Pass Roaming *7" },
+      { "id": 77, "label": "Pass offres spéciales Roaming *77" }
+    ],
+    "350": [
+      { "id": 7, "label": "Pass Roaming *7" }
+    ],
+    "600": [
+      { "id": 7, "label": "Pass Roaming *7" }
+    ],
+    "900": [
+      { "id": 7, "label": "Pass Roaming *7" }
+    ]
+  }
+}
